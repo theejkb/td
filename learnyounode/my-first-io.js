@@ -1,3 +1,4 @@
+
 const { readFileSync } = require('fs');
 const path = process.argv[2];
 
